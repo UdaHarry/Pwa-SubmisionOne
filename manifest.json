@@ -1,0 +1,21 @@
+{
+  "name": "GP Shop",
+  "short_name": "GetPetShop",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "theme_color":"#EDF5E1",
+  "background_color": "#5CDB95",
+  "description": "submission 1",
+  "icons": [
+    {
+      "src": "img/pawprint-128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "img/pawprint-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
